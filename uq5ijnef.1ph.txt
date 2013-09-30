@@ -1,0 +1,19 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   simulation/EXCEPTION_Simulation.java
+#	new file:   simulation/Mainframe.java
+#	new file:   simulation/components/ENUM_SystemType.java
+#	new file:   simulation/components/Particle.java
+#	new file:   simulation/components/ParticleSystem.java
+#	new file:   simulation/frames/FRAME_Setup.form
+#	new file:   simulation/frames/FRAME_Setup.java
+#	new file:   simulation/listeners/DataWriter.java
+#	new file:   simulation/listeners/EVENT_Updated.java
+#	new file:   simulation/listeners/LISTENER_Updated.java
+#
+
